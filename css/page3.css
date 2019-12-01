@@ -1,0 +1,93 @@
+html,body{
+  width: 100%;
+  height: 100%;
+}
+body{
+  background-image: RADIAL-gradient(circle at 20% 40%, #99cccc 20%, #C2D3FD 40%, #F6DEC9 60%,#C9EEF6 80%);
+  background-size: cover;
+}
+.cube{
+  max-width: 100%;
+}
+.box1{
+  width: 200px;
+  height: 200px;
+  background-color: #E66B4C;
+  position: relative;
+  -webkit-animation-name: cube1;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: cube1;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes cube1 {
+  0%   {background-color:#E66B4C; left:50px; top:50px;}
+  25%  {background-color:#FFBF00; left:200px; top:0px;}
+  50%  {background-color:#3239E4; left:200px; top:200px;}
+  75%  {background-color:#95CD96; left:0px; top:200px;}
+  100% {background-color:#E66B4C; left:50px; top:50px;}
+}
+
+@keyframes cube1 {
+  0%   {background-color:#E66B4C; left:0px; top:0px;}
+  25%  {background-color:#FFBF00; left:200px; top:0px;}
+  50%  {background-color:#3239E4; left:200px; top:200px;}
+  75%  {background-color:#95CD96; left:0px; top:200px;}
+  100% {background-color:#E66B4C; left:0px; top:0px;}
+}
+.box2{
+  width: 200px;
+  height: 200px;
+  background-color: #E66B4C;
+  position: relative;
+  -webkit-animation-name: cube2;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: cube1;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes cube2 {
+  0%   {background-color:#E66B4C; left:50px; top:50px;}
+  25%  {background-color:#FFBF00; left:200px; top:0px;}
+  50%  {background-color:#3239E4; left:200px; top:200px;}
+  75%  {background-color:#95CD96; left:0px; top:200px;}
+  100% {background-color:#E66B4C; left:50px; top:50px;}
+}
+
+@keyframes cube2 {
+  0%   {background-color:#E66B4C; left:0px; top:0px;}
+  25%  {background-color:#FFBF00; left:200px; top:0px;}
+  50%  {background-color:#3239E4; left:200px; top:200px;}
+  75%  {background-color:#95CD96; left:0px; top:200px;}
+  100% {background-color:#E66B4C; left:0px; top:0px;}
+}
+
+.box3{
+  width: 200px;
+  height: 200px;
+  background-color: #E66B4C;
+  position: relative;
+  -webkit-animation-name: cube3;
+  -webkit-animation-duration: 4s;
+  -webkit-animation-iteration-count: infinite;
+  animation-name: cube1;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+@-webkit-keyframes cube3 {
+  0%   {background-color:#E66B4C; left:100px; top:100px;}
+  25%  {background-color:#FFBF00; left:300px; top:50px;}
+  50%  {background-color:#3239E4; left:300px; top:300px;}
+  75%  {background-color:#95CD96; left:100px; top:300px;}
+  100% {background-color:#E66B4C; left:100px; top:100px;}
+}
+
+@keyframes cube3{
+  0%   {background-color:#E66B4C; left:100px; top:100px;}
+  25%  {background-color:#FFBF00; left:300px; top:50px;}
+  50%  {background-color:#3239E4; left:300px; top:300px;}
+  75%  {background-color:#95CD96; left:100px; top:300px;}
+  100% {background-color:#E66B4C; left:100px; top:100px;}
+}

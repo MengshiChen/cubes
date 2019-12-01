@@ -1,0 +1,491 @@
+html,body{
+  width: 100%;
+  height: 100%;
+}
+body{
+  background-image: RADIAL-gradient(circle at 20% 40%, #ff9ea3 20%, #9ed8ff 40%, #f8d4a5 60%,#C9EEF6 80%);
+  background-size: cover;
+}
+.cube{
+  max-width: 100%;
+}
+.box31{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+
+@-webkit-keyframes cube2{
+ 0%   {background-color: #68bd61;}
+ 25%  {background-color: #8198ca;}
+ 50%  {background-color: #5b8f69;}
+ 100% {background-color: #344a98;}
+}
+
+@keyframes cube2 {
+  0%   {background-color: #68bd61;}
+  25%  {background-color: #8198ca;}
+  50%  {background-color: #5b8f69;}
+  100% {background-color: #344a98;}
+}
+.box32{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box33{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box34{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box35{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box36{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box37{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box38{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box39{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box40{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box41{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box42{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box43{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box44{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box45{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box46{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box47{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box48{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box49{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box50{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box51{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box52{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box53{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box54{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box55{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box56{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box57{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box58{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box59{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #8198ca;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+.box60{
+  display: inline-block;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 150px;
+ height: 150px;
+ background-color: #68bd61;
+ -webkit-animation-name: cube2;
+ -webkit-animation-duration: 3s;
+ animation-name: cube2;
+ animation-duration: 3s;
+ animation-iteration-count: infinite;
+}
+
+button {
+  background-color: #1e90ff;
+  border: none;
+  color: #FFB8C6;
+  margin-left: 40%;
+  padding:14px 40px;;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 12px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+}
